@@ -10,7 +10,7 @@ YOLOV5 + MOSSE WITH CPU | 300% Performance Improvement
 
 GROUND CONTROL STATION WITH DRONEKIT , MAVProxy
 
-![Proje Demo](demo(2).gif)
+![Proje Demo](demo (2).gif)
 
 
 
